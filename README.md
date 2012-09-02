@@ -15,4 +15,5 @@ Erlang Collect
 This module is a composite of other open source modules and original code to make interfacing with the Protocol Buffers protocol easy.
 
 [mochiweb](https://github.com/mochi/mochiweb)
+-----------------
 MochiWeb is an Erlang library for building lightweight HTTP servers.
