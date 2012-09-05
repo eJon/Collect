@@ -17,3 +17,6 @@ This module is a composite of other open source modules and original code to mak
 [mochiweb](https://github.com/mochi/mochiweb)
 -----------------
 MochiWeb is an Erlang library for building lightweight HTTP servers.
+
+[elli - Erlang web server for HTTP APIs](https://github.com/knutin/elli)
+Elli is a webserver aimed exclusively at building high-throughput, low-latency HTTP APIs. If robustness and performance is more important than a wide feature set, then elli might be for you.
