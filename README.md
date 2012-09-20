@@ -21,3 +21,9 @@ MochiWeb is an Erlang library for building lightweight HTTP servers.
 [elli - Erlang web server for HTTP APIs](https://github.com/knutin/elli)
 -----------------
 Elli is a webserver aimed exclusively at building high-throughput, low-latency HTTP APIs. If robustness and performance is more important than a wide feature set, then elli might be for you.
+
+Flash Collect
+========
+[AMF Socket - Actionscript](https://github.com/chadrem/amf_socket)
+--------------
+AMF Socket is a bi-directional remote procedure call (RPC) system for Adobe Actionscript programs. This library aims to make high quality and free RPC accessible to all of the Flash platforms (web, mobile, and desktop). Using this library you can easily add event driven network functionality to your Flash applications without having to deal with the low level details. High performance and low latency is accomplished through the use of persistent TCP/IP sockets and Flash's native serialization format (AMF). Due to the use of AMF, you can send primitives, hashes, arrays, and even your custom classes over the network. AMF Socket tries to be the "easy button" for Flash networking by hiding as many details as possible.
