@@ -27,7 +27,8 @@ Elli is a webserver aimed exclusively at building high-throughput, low-latency H
  / _ \ '__| | | '_ \ / _` |
 |  __/ |  | | | | | | (_| |
  \___|_|  |_|_|_| |_|\__, |
-                    [|___/](https://github.com/trung/erling)
+                      |___/
+[erling](https://github.com/trung/erling)
 --------------------
 + Parsing AMF0 and AMF3 binary (WIP)
 + Parsing services-config.xml (Not yet started)
