@@ -22,6 +22,18 @@ MochiWeb is an Erlang library for building lightweight HTTP servers.
 -----------------
 Elli is a webserver aimed exclusively at building high-throughput, low-latency HTTP APIs. If robustness and performance is more important than a wide feature set, then elli might be for you.
 
+           _ _             
+  ___ _ __| (_)_ __   __ _ 
+ / _ \ '__| | | '_ \ / _` |
+|  __/ |  | | | | | | (_| |
+ \___|_|  |_|_|_| |_|\__, |
+                    [|___/](https://github.com/trung/erling)
+--------------------
++ Parsing AMF0 and AMF3 binary (WIP)
++ Parsing services-config.xml (Not yet started)
++ Mochiweb Server to capture AMF Requests (WIP)
+  to start the server:
+
 Flash Collect
 ========
 [AMF Socket - Actionscript](https://github.com/chadrem/amf_socket)
